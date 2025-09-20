@@ -1,4 +1,4 @@
-<img width="1903" height="930" alt="Zrzut ekranu 2025-09-15 083935" src="https://github.com/user-attachments/assets/508719e3-57e8-44d5-b853-3650a3b5a050" />
+[<img width="1903" height="930" alt="Zrzut ekranu 2025-09-15 083935" src="https://github.com/user-attachments/assets/508719e3-57e8-44d5-b853-3650a3b5a050" />](https://imediasystem.github.io/HairDresser/)
 
 ## 🔥 Project Name - HAIRDRESSER
 See the live version of [HAIRDRESSER](https://imediasystem.github.io/HairDresser/) ↗️
